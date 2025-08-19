@@ -9,6 +9,6 @@ elif vibor == 'power':
     power1 = int(input("Enter the power: "))
     for i in range(power1):
         result *= n
-        print(n,"**", i+1, "=", result)
+        print(n,"**", i+1, "=", result) #
 else:
-    print("Invalid input")
+    print("Invalid input. Please enter 'factorial' or 'power'.")
