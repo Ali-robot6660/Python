@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKP3l2eKHjPOXUE/giphy.gif" alt="Neon Tiger LION" width="400"/>
+  <img src="https://img.shields.io/badge/LION-💛Life%20Is%20ON-FF0000?style=for-the-badge&animation=glitch" />
 </p>
+
 
 <h1 align="center">
   <span style="color:#FF0000;">L</span>
