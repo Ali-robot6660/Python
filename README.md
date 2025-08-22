@@ -1,15 +1,3 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/LION-💛Life%20Is%20ON-FF0000?style=for-the-badge&animation=glitch" />
-</p>
-
-
-<h1 align="center">
-  <span style="color:#FF0000;">L</span>
-  <span style="color:#FFFF00;">I</span>
-  <span style="color:#FF0000;">O</span>
-  <span style="color:#FFFF00;">N</span> – Life Is ON
-</h1>
-
 <h2 align="center">
   Welcome to the GitHub account <b>Khujaev Qurbonali</b>
 </h2>
